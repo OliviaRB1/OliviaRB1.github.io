@@ -1,0 +1,57 @@
+body {
+ background: lightpink;
+ font-family: serif;
+ color: black
+}
+a:hover {
+  color: white;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: purple;
+}
+a:active {
+  border: 1px solid black;
+}
+h1 {
+  font-family: "Luminari" ;
+  font-size: 40px;
+  text-align: center;
+}
+#contact-information p1 {
+ color: purple;
+ text-align: center;
+ font-size: 20px;
+ line-height: 12px;
+ font-weight: bold;
+}
+h4 {
+  font-style: italic;
+  font-size: 15px
+}
+h3 {
+  font-size: 18px
+}
+p {
+  color: purple;
+  text-align: center;
+  font-size: 15px
+}
+#contact-information {
+  line-height: 15px;
+  text-align: center;
+}
+hr {
+  background-color: black;
+  height: 1px;
+  border-color: black
+}
+h2 {
+  text-decoration: underline;
+  font-size: 25px
+}
+li {
+  font-size: 15px
+}
